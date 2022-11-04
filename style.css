@@ -1,0 +1,13 @@
+body {
+    background-color: #4b3bd844;
+}
+
+header .navbar {
+    background-color: blueviolet;
+
+}
+
+.navbar .navbar-item {
+    color: rgb(255, 255, 255);
+}
+
